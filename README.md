@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:computer: **Ingeniero en Sistemas y Computación**  
+:pencil: **Programador**  
+:eyeglasses: **Perfil de prueba y aprendizaje**
+
+### Vías de contacto
+![website](https://www.google.com)
