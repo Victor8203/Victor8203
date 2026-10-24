@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 :eyeglasses: **Perfil de prueba y aprendizaje**
 
 ### Vías de contacto
-![website](https://shields.io)(https://www.google.com)
+
+![website](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub)(https://www.google.com)
